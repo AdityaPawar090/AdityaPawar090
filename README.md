@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/banner.svg" width="100%" alt="Aditya Pawar - Full Stack Developer" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/banner.svg" width="100%" alt="Aditya Pawar - Full Stack Developer" />
 
 <a href="https://www.linkedin.com/in/adityapawar-dev"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:adityadpawar090@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-16A34A?style=for-the-badge" alt="Open to work" />
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/divider.svg" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/terminal.svg" width="100%" alt="Terminal intro" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/terminal.svg" width="100%" alt="Terminal intro" />
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -33,7 +33,7 @@ AI-powered event crowd management app.
 
 </details>
 
-<div align="center"><img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🧰 Toolbox
 
@@ -50,11 +50,11 @@ AI-powered event crowd management app.
 
 </details>
 
-<div align="center"><img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## ⚙️ How I Work
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/workflow.svg" width="100%" alt="Plan, design, build, test, ship" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/workflow.svg" width="100%" alt="Plan, design, build, test, ship" />
 
 <details>
 <summary><b>▸ In more detail</b></summary>
@@ -67,7 +67,7 @@ AI-powered event crowd management app.
 
 </details>
 
-<img src="https://raw.githubusercontent.com/AdityaPawar090/AdityaPawar090/main/assets/quote.svg" width="100%" alt="Quote" />
+<img src="https://github.com/AdityaPawar090/adityapawar/raw/main/assets/quote.svg" width="100%" alt="Quote" />
 
 ## 🎮 Beyond Code
 
